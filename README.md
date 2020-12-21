@@ -37,3 +37,7 @@
 все функции/методы связанные с **JS/HTML** можно прописать в файле **Assets/jsLibrary.jslib**
 для того чтоб можно было это вызывать из Unity3d прописываем функции/методы в файле **Assets/callToJs.cs**
 после этого мы можем обращаться к классу **callToJS** и вызывать их внутри юнити.
+
+Документация https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html
+
+Опробовать в действии можно тут https://tushkan-ist.github.io/Unity3d-Sample-HTML-Button/
